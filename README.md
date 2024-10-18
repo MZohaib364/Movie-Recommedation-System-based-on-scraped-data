@@ -12,7 +12,7 @@ Features:
 > Recommends a movie based on the user's criteria, displaying title, writer, director, and trivia.
 > If no movies match the user's preferences, recommends any movie from the original dataframe.
 
-Usage
+Usage:
 > Run the program.
 > Enter preferences for genre, minimum rating, maximum runtime, and age restriction when prompted.
 > Receive a movie recommendation based on your preferences.
