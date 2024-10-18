@@ -4,7 +4,7 @@ Movie Recommendation System
 Overview:
         This project implements a basic movie recommendation system that scrapes data from the IMDb website. It retrieves information from the Most Popular Movies page on IMDb, including movie titles, runtime, rating, age restriction, genre, writer(s), director(s), and fun movie trivia. The scraped data is stored in a Pandas dataframe.
 
-Features
+Features:
 > Scrapes data from IMDb Most Popular Movies page.
 > Stores data in a Pandas dataframe.
 > Allows users to specify preferences for genre, minimum rating, maximum runtime, and age restriction.
