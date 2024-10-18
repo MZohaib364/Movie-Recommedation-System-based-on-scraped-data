@@ -17,12 +17,12 @@ Usage:
 > Enter preferences for genre, minimum rating, maximum runtime, and age restriction when prompted.
 > Receive a movie recommendation based on your preferences.
 
-Technologies Used
+Technologies Used:
 > Python
 > Selenium for web scraping
 > Pandas for data manipulation
 
-How to Run
+How to Run:
 > Clone this repository to your local machine.
 > Install the required dependencies.
 > Run the main script.
